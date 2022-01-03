@@ -1,6 +1,6 @@
 # GEOG-510
 A repository for GEOG-510 (Geographic Software Design)
-This is a test
+
 
 
 ## Lectures
